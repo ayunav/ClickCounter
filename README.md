@@ -6,7 +6,7 @@ This simple app built in Swift counts and displays how many times user tapped th
 
 The UILabel and UIButton were added programmatically without using the Interface Builder and the storyboard. 
 
-![AVClickCounterDemo]()
+![AVClickCounterDemo](https://github.com/ayunav/ClickCounter/blob/master/AVClickCounterDemo.gif)
 
 Resources used: 
 
